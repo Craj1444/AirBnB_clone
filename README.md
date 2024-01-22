@@ -15,12 +15,8 @@ To start the command interprator navigate to the project directory in yyour term
 python3 console.py
 ```
 
-## How to use it
-
-## Example
-
 ## Authors
-- Hassan Munene Awanzi
+- Sirajurahman mohamud
 
 ## Branches and pull request
 We use branches and pull request to organize our work. If you want ake a change to the codebase, please create a new branch with a descriptive name and submit a pull request for review. Once your changes have been reviewed and approved they will be merged to the main branch
